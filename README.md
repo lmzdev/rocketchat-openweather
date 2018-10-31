@@ -10,7 +10,7 @@ This is a very simple integration which makes use of the free OpenWeatherMap.org
 * Enter `all_public_channels,all_private_groups,all_direct_messages` as _'Channel'_ to make it work everywhere
 * Insert `https://api.openweathermap.org/data/2.5/weather` as _'URL'_
 * Insert your API Key as _'Token'_
-* Copy&Paste the [JavaScript-File](rocketchat-openweather/rocketchat-owm-integration.js) into the 'Script' field
+* Copy&Paste the above JavaScript-File into the 'Script' field
 * Set Integration and Script to enabled
 * Save changes!
 
