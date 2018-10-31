@@ -16,6 +16,6 @@ This is a very simple integration which makes use of the free OpenWeatherMap.org
 
 ## Usage
 * If anyone sends `!weather <city>` the rocket.cat should respond with the current weather conditions in that particular city (if it exists to OWMs databases).
-* Feel free to modify the Code to your needs. You may find it useful to tweak things like the default city, the presentation or the weather data used. 
+* Feel free to modify the Code to your needs. You may find it useful to tweak things like the default city, locale settings, the presentation or the weather data used. 
 
 Refer to https://openweathermap.org/current for further information on how to use the API. Have Fun!
