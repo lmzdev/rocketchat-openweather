@@ -21,7 +21,7 @@ class Script {
 
     process_outgoing_response({ request, response }) {
 
-        const weather = response.content;
+        const weather = JSON.parse(response.content);
 
         if (response.status_code == 200) {
             const icon_url = "https://openweathermap.org/img/w/" + weather.weather[0].icon + ".png";
